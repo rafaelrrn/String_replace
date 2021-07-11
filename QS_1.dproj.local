@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/09 20:05:11.000.121,=C:\Users\fael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/05 14:23:55.000.160,=C:\Users\fael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/07 20:18:05.000.909,=C:\Users\fael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/07 20:19:03.000.342,C:\OUTROS\DELPHI\Exercicios\QS-1\uPrincipal.dfm=C:\Users\fael\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/07/07 20:19:03.000.342,C:\OUTROS\DELPHI\Exercicios\QS-1\uPrincipal.pas=C:\Users\fael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/07 20:19:08.000.603,C:\OUTROS\DELPHI\Exercicios\QS-1\QS_1.dproj=C:\Users\fael\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/07/07 20:21:30.000.241,=C:\OUTROS\DELPHI\Exercicios\QS-1\Interfaces\uISubstitui.pas</Transaction>
+    <Transaction>2021/07/07 20:21:39.000.140,=C:\OUTROS\DELPHI\Exercicios\QS-1\Interfaces\uSubstitui.pas</Transaction>
+  </Transactions>
+</BorlandProject>
