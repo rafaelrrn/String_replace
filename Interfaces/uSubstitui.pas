@@ -20,6 +20,7 @@ var
   I,J,pula           : integer;
 begin
    try
+      J    := 0;
       pula := 0;
 
       for I := Low(aStr) to High(aStr) do
@@ -32,7 +33,9 @@ begin
          if (compareStr = aVelho) and (pula = 0) then
          begin
             newStr := newStr + aNovo;
-            pula  := J - 1;
+
+            if (J - 1 >= 0) then
+               pula  := J - 1;
          end else
          begin
             if pula = 0 then
@@ -47,7 +50,7 @@ begin
       result     := newStr;
       newStr     := '';
       compareStr := '';
-      pula      := 0;
+      pula       := 0;
 
    end;
 end;
